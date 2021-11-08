@@ -1,0 +1,8 @@
+Container stores 7 transports:
+1: It is a train: speed = 30; distance = 75.5; time = 2.5166666666666666; number of railway carriages = 86
+2: It is a train: speed = 12; distance = 410.9; time = 34.24166666666667; number of railway carriages = 72
+3: It is a ship: speed = 63; distance = 69.6; time = 1.1047619047619046; displacement = 48; type of ship is 
+4: It is a ship: speed = 83; distance = 68.3; time = 0.8228915662650602; displacement = 57; type of ship is 
+5: It is a plain: speed = 96; distance = 17.4; time = 0.18125; range = 94; capacity = 99
+6: It is a train: speed = 92; distance = 25.6; time = 0.2782608695652174; number of railway carriages = 78
+7: It is a plain: speed = 93; distance = 90.9; time = 0.9774193548387098; range = 39; capacity = 66
